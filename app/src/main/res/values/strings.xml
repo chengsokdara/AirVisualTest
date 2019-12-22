@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AirVisualTest</string>
+    <string name="action_my_air">My Air</string>
+    <string name="action_map">Map</string>
+    <string name="action_places">Places</string>
+    <string name="action_devices">Devices</string>
+    <string name="action_search">Search</string>
+    <string name="action_notification">Notification</string>
+    <string name="action_exit">Exit</string>
+    <string name="title_activity_map">Map</string>
+</resources>
